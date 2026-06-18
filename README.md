@@ -65,6 +65,4 @@ Plataforma orientada a facilitar tutorías académicas entre estudiantes y tutor
 <div align="center">✨ "El código es la herramienta, el aprendizaje constante es la ventaja." ✨
 
 </div>
-## 🐍 Contribuciones
 
-![snake gif](https://github.com/ArlethC12/ArlethC12/blob/output/github-contribution-grid-snake.svg)
